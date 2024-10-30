@@ -1,0 +1,3 @@
+[submodule "submodules/crystal-remix-icon-theme"]
+	path = submodules/crystal-remix-icon-theme
+	url = git@github.com:dangvd/crystal-remix-icon-theme
