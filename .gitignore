@@ -1,8 +1,8 @@
 /pkg
 /release
-/src
-/oxylite
-/oxylite-icon-theme
+/result
+/target
+/test
 *.pkg.tar.zst
 *.pkg.tar.zst.sig
 *.tar.gz
